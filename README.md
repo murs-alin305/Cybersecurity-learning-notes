@@ -41,7 +41,7 @@ Each folder has its own notes — written the way *I'd* want them explained, not
 - 🤖 **AI Prompting Essentials Specialization** — Google / Coursera
 - 🔍 **Job Search with AI** — Google / Coursera
 - 🏭 **Introduction to CIP** — OPSWAT
-- 🏭 **OT/ICS Security (Expert Track)** — OPSWAT *(in progress)*
+- 🏭 **OT/ICS Security (Expert Track)** — OPSWAT 
 
 ---
 
