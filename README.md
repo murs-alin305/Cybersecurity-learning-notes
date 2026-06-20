@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Learning Notes
+# 🛡️ Cybersecurity Journey
 
 > *Documenting the climb — one concept, one tool, one CTF at a time.*
 
